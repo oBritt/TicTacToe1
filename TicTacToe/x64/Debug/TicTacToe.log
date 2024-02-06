@@ -1,0 +1,3 @@
+﻿  TicTacToe.cpp
+C:\Users\Computer\Documents\GitHubProjects\TicTacToe\TicTacToe\TicTacToe.cpp(376): warning C4715: "Game::otherMoves": Nicht alle Codepfade geben einen Wert zurück.
+  TicTacToe.vcxproj -> C:\Users\Computer\Documents\GitHubProjects\TicTacToe\x64\Debug\TicTacToe.exe
